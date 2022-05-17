@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BadB8oy
+- 👋 Hi, I’m @Rado
 - 👀 I’m interested in Internet Of Things
 - 🌱 I’m currently learning System Integration
 
